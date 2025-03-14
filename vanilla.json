@@ -786,8 +786,7 @@
 			"mox_cost": [
 				"Green"
 			],
-			"atkspecial": "mox",
-			"description": "This card's attack is supposed to equal to the number of \"Green Mox\" sigils you possess."
+			"atkspecial": "green_mox",
 		},
 		{
 			"name": "Junior Sage",
